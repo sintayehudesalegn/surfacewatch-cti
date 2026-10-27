@@ -1,6 +1,6 @@
 # SurfaceWatch CTI
 
-Local Nmap assessment workbench by **Sintayehu Desalegn Hadero**: enter an asset, scan it, and get
+Local Nmap assessment workbench by **Sintayehu Desalegn**: enter an asset, scan it, and get
 evidence-based findings, CVE candidates with match rationale, KEV/EPSS context and downloadable reports.
 
 > **Authorized use only.** Scan only assets you own or have written permission to test.
